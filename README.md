@@ -100,18 +100,65 @@ This sequence allows interaction and navigation risks to be solved before expens
 
 ## Visual Case Study
 
-Selected screenshots, short recordings and architecture diagrams will be added as the visual production reaches presentation quality.
+### Interactive City Greybox
 
-Planned media structure:
+The early city prototype was built to validate spatial navigation, district placement and the relationship between portfolio destinations before producing final environment assets.
 
-```text
-assets/
-├── screenshots/
-├── recordings/
-└── diagrams/
-```
+<p align="center">
+  <img
+    src="./assets/screenshots/city-greybox-projects.jpg"
+    alt="Sugars Portfolio greybox city with interactive Projects billboard"
+    width="100%"
+  />
+</p>
 
-No private source code, client information, credentials or production secrets will be published in this repository.
+<p align="center">
+  <em>
+    Greybox city overview showing the physical Projects destination and
+    surrounding portfolio districts.
+  </em>
+</p>
+
+### Camera Route Engineering
+
+Camera transitions are developed and validated through an internal inspection layer. This view visualizes route paths, transition checkpoints, camera orientation and destination alignment.
+
+<p align="center">
+  <img
+    src="./assets/screenshots/camera-route-debug.jpg"
+    alt="Sugars Portfolio camera route and transition debugging system"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <em>
+    Development view used to inspect cinematic routes, gaze behavior and
+    transition consistency.
+  </em>
+</p>
+
+### Project Case Study Interface
+
+Portfolio projects are presented through dedicated editorial pages that combine concise technical summaries, project highlights and controlled visual galleries.
+
+<p align="center">
+  <img
+    src="./assets/screenshots/project-case-study-page.jpg"
+    alt="Sugars Portfolio project case study interface"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <em>
+    Project detail experience designed to communicate product direction,
+    technical scope and selected results.
+  </em>
+</p>
+
+> These screenshots document the current development state. Final environment
+> assets and visual polish are still in progress.
 
 ## Key Lessons
 
